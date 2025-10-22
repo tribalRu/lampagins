@@ -1,0 +1,108 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 522" width="640" height="522">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(561.294,526.93,-427.241,455.104,301.849,-211.512)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(732.23,-266.51,216.428,594.63,-154.354,95.362)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-816.474,483.71,0,216.104,525.917)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(600.471,0,0,359.242,19.738,14.889)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-816.474,483.71,0,216.104,525.917)">
+			<stop offset="0" stop-color="#3b3b3b"/>
+			<stop offset=".246" stop-color="#000000"/>
+			<stop offset=".51" stop-color="#363636"/>
+			<stop offset=".748" stop-color="#646464"/>
+			<stop offset="1" stop-color="#101010"/>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,315.74,-400.723,0,340.59,64.687)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g7" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(173.841,0,0,218.388,117.382,80.709)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g8" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,315.741,-330.866,0,539.181,64.687)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g9" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(207.445,0,0,214.781,326.319,84.316)">
+			<stop offset="0" stop-color="#cea132"/>
+			<stop offset=".247" stop-color="#fffe77"/>
+			<stop offset=".674" stop-color="#cd9e2c"/>
+			<stop offset="1" stop-color="#fff083"/>
+		</linearGradient>
+		<linearGradient id="g10" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(554.051,1151.273,-636.722,306.422,368.682,-67.696)">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset="1" stop-color="#b3b3b3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { fill: url(#g9) } 
+		.s9 { fill: #141414 } 
+		.s10 { mix-blend-mode: screen;fill: url(#g10) } 
+	</style>
+	<g id="Layer 1">
+	</g>
+	<g id="&lt;Group&gt;">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m603.64 517.16h-567.34c-18.89 0-34.2-15.32-34.2-34.21v-447.06c0-18.89 15.31-34.21 34.2-34.21h567.34c18.89 0 34.21 15.32 34.21 34.21v447.06c0 18.89-15.32 34.21-34.21 34.21z"/>
+			<path id="&lt;Compound Path&gt;" class="s1" d="m603.65 519.31h-567.35c-20.04 0-36.35-16.31-36.35-36.36v-447.06c0-20.05 16.31-36.35 36.35-36.35h567.35c20.04 0 36.35 16.3 36.35 36.35v447.06c0 20.05-16.31 36.36-36.35 36.36zm-567.35-515.48c-17.67 0-32.05 14.38-32.05 32.06v447.06c0 17.68 14.38 32.06 32.05 32.06h567.35c17.67 0 32.05-14.38 32.05-32.06v-447.06c0-17.68-14.38-32.06-32.05-32.06z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s2" d="m590.46 369.84h-540.97c-14.06 0-25.46-11.4-25.46-25.46v-299.74c0-14.06 11.4-25.45 25.46-25.45h540.97c14.06 0 25.45 11.39 25.45 25.45v299.74c0 14.06-11.39 25.46-25.45 25.46z"/>
+			<path id="&lt;Compound Path&gt;" class="s3" d="m590.46 14.89h-540.97c-16.41 0-29.75 13.35-29.75 29.75v299.74c0 16.4 13.34 29.75 29.75 29.75h540.97c16.4 0 29.75-13.35 29.75-29.75v-299.74c0-16.4-13.35-29.75-29.75-29.75zm0 4.29c14.06 0 25.45 11.4 25.45 25.46v299.74c0 14.06-11.39 25.46-25.45 25.46h-540.97c-14.06 0-25.46-11.4-25.46-25.46v-299.74c0-14.06 11.4-25.46 25.46-25.46z"/>
+		</g>
+		<path id="&lt;Path&gt;" class="s4" d="m590.46 369.84h-540.97c-14.06 0-25.46-11.4-25.46-25.46v-299.74c0-14.06 11.4-25.45 25.46-25.45h540.97c14.06 0 25.45 11.39 25.45 25.45v299.74c0 14.06-11.39 25.46-25.45 25.46z"/>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" class="s5" d="m289.08 257.26v39.69h-159.07v-31.57l81.19-76.68q12.92-12.33 17.44-21.2 4.51-8.87 4.51-17.59 0-12.63-8.57-19.4-8.57-6.76-25.11-6.76-13.84 0-24.96 5.26-11.13 5.27-18.64 15.79l-35.48-22.86q12.32-18.33 33.97-28.71 21.66-10.38 49.62-10.37 23.45 0 41.04 7.66 17.59 7.67 27.37 21.65 9.77 13.98 9.77 32.93 0 17.14-7.22 32.17-7.21 15.04-27.96 34.28l-48.41 45.71z"/>
+				<path id="&lt;Compound Path&gt;" class="s6" d="m291.22 299.1h-163.36v-34.65l81.86-77.31c8.4-8.02 14.13-14.95 17-20.61 2.84-5.58 4.28-11.17 4.28-16.62 0-7.8-2.54-13.59-7.75-17.71-5.31-4.18-13.3-6.3-23.78-6.3-8.86 0-16.95 1.7-24.04 5.05-7.05 3.34-13.05 8.42-17.81 15.1l-1.19 1.66-39.05-25.15 1.22-1.81c8.41-12.5 20.13-22.41 34.84-29.46 14.65-7.02 31.66-10.58 50.54-10.58 15.86 0 29.96 2.64 41.9 7.84 12.04 5.25 21.55 12.78 28.27 22.39 6.74 9.65 10.16 21.15 10.16 34.16 0 11.7-2.5 22.84-7.43 33.1-4.9 10.22-14.47 21.98-28.44 34.93l-44.47 41.98h87.25zm-159.06-4.3h154.77v-35.4h-93.76l52.33-49.41c13.59-12.6 22.84-23.91 27.51-33.65 4.65-9.67 7-20.19 7-31.24 0-12.12-3.16-22.78-9.38-31.7-6.26-8.95-15.16-15.98-26.46-20.91-11.41-4.97-24.93-7.48-40.19-7.48-18.24 0-34.62 3.42-48.69 10.16-13.29 6.37-24 15.16-31.87 26.17l31.92 20.56c4.99-6.47 11.12-11.45 18.26-14.83 7.67-3.63 16.37-5.47 25.87-5.47 11.47 0 20.36 2.43 26.44 7.23 6.23 4.92 9.38 12.01 9.38 21.08 0 6.13-1.59 12.38-4.74 18.57-3.14 6.17-8.98 13.3-17.87 21.77l-80.52 76.05z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" class="s7" d="m405.14 214.26l-28.26 29.47v53.22h-48.41v-210.49h48.41v98.33l93.21-98.33h54.13l-87.2 93.82 92.31 116.67h-56.83z"/>
+				<path id="&lt;Compound Path&gt;" class="s8" d="m533.76 299.1h-62.28l-66.47-81.6-25.98 27.09v54.51h-52.71v-214.78h52.71v95.09l90.14-95.09h59.98l-89.31 96.07zm-60.25-4.3h51.38l-90.71-114.63 85.1-91.56h-48.27l-96.28 101.57v-101.57h-44.12v206.19h44.12v-51.93l30.54-31.85z"/>
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" class="s9" d="m207.74 474.67q-2.29 2.95-5.58 4.5-3.31 1.55-7.22 1.55-3.79 0-6.86-1.03-3.07-1.03-6.17-3.41-3.1-2.37-6.95-6.63-5.94-1.03-10.58-4.46-4.64-3.44-7.21-8.66-2.58-5.23-2.58-11.48 0-7.15 3.29-12.85 3.3-5.71 9.08-8.94 5.78-3.23 13.02-3.23 7.25 0 13.03 3.23 5.78 3.23 9.08 8.94 3.3 5.7 3.3 12.85 0 8.11-4.22 14.33-4.2 6.22-11.32 8.9 1.3 1.51 2.57 2.13 1.27 0.62 2.78 0.62 3.85 0 6.92-3.37zm-38.46-22.44q1.63 3.13 4.45 4.84 2.8 1.72 6.26 1.72 3.46 0 6.27-1.72 2.81-1.71 4.44-4.84 1.63-3.13 1.63-7.18 0-4.06-1.63-7.19-1.63-3.12-4.44-4.84-2.81-1.72-6.27-1.72-3.46 0-6.26 1.72-2.82 1.72-4.45 4.84-1.63 3.13-1.63 7.19 0 4.05 1.63 7.18z"/>
+			<path id="&lt;Compound Path&gt;" class="s9" d="m219.39 464.22q-5.65-5.84-5.65-16.56v-26.67h12.93v26.26q0.01 11.54 8.68 11.54 8.63 0 8.63-11.54v-26.26h12.72v26.67q0.01 10.72-5.64 16.56-5.65 5.85-15.84 5.85-10.18 0-15.83-5.85z"/>
+			<path id="&lt;Compound Path&gt;" class="s9" d="m297.06 459.76h-19.33l-3.59 9.34h-13.19l20.17-48.11h12.74l20.24 48.11h-13.45zm-3.79-10.03l-5.88-15.4-5.88 15.4z"/>
+			<path id="&lt;Compound Path&gt;" class="s9" d="m319.71 420.99h21.61q7.51 0 13.33 2.96 5.81 2.95 9.01 8.38 3.19 5.43 3.2 12.72-0.01 7.28-3.2 12.71-3.2 5.43-9.01 8.39-5.82 2.95-13.33 2.95h-21.61zm21.09 37.25q5.88 0 9.44-3.5 3.55-3.51 3.56-9.69-0.01-6.19-3.56-9.69-3.56-3.51-9.44-3.51h-8.16v26.39z"/>
+			<path id="&lt;Compound Path&gt;" class="s9" d="m440.05 420.99v48.11h-12.93v-18.76h-17.63v18.76h-12.93v-48.11h12.93v18.08h17.63v-18.08z"/>
+			<path id="&lt;Compound Path&gt;" class="s9" d="m451.14 420.99h21.62q7.51 0 13.32 2.96 5.81 2.95 9.01 8.38 3.2 5.43 3.2 12.72 0 7.28-3.2 12.71-3.2 5.43-9.01 8.39-5.81 2.95-13.32 2.95h-21.62zm21.09 37.25q5.88 0 9.44-3.5 3.56-3.51 3.56-9.69 0-6.19-3.56-9.69-3.56-3.51-9.44-3.51h-8.15v26.39z"/>
+		</g>
+		<path id="&lt;Path&gt;" class="s10" d="m590.46 19.18h-540.97c-14.06 0-25.46 11.4-25.46 25.46v299.74q0.01 1.08 0.11 2.15c66.29-82.76 247.4-260.26 591.77-277.88v-24.01c0-14.06-11.39-25.46-25.45-25.46z"/>
+	</g>
+</svg>
