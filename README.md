@@ -1,0 +1,2 @@
+# lampagins
+Разное для Lampa
